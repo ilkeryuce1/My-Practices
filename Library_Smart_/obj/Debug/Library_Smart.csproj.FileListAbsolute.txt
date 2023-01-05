@@ -1,0 +1,8 @@
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\bin\Debug\Library_Smart.exe.config
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\bin\Debug\Library_Smart.exe
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\bin\Debug\Library_Smart.pdb
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\obj\Debug\Library_Smart.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\obj\Debug\Library_Smart.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\obj\Debug\Library_Smart.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\obj\Debug\Library_Smart.exe
+C:\Users\ilker\Desktop\SmartPro\Library_Smart\obj\Debug\Library_Smart.pdb

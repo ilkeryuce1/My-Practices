@@ -1,0 +1,8 @@
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\bin\Debug\Kredi_Hesaplama_.exe.config
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\bin\Debug\Kredi_Hesaplama_.exe
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\bin\Debug\Kredi_Hesaplama_.pdb
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\obj\Debug\Kredi_Hesaplama_.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\obj\Debug\Kredi_Hesaplama_.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\obj\Debug\Kredi_Hesaplama_.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\obj\Debug\Kredi_Hesaplama_.exe
+C:\Users\ilker\Desktop\SmartPro\Kredi_Hesaplama_\obj\Debug\Kredi_Hesaplama_.pdb
