@@ -1,0 +1,11 @@
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\bin\Debug\Forms_Metro.exe.config
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\bin\Debug\Forms_Metro.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\bin\Debug\Forms_Metro.pdb
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.Form1.resources
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.Properties.Resources.resources
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Forms_Metro\obj\Debug\Forms_Metro.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_Metro", "Forms_Metro.csproj", "{5AE6E8CA-5E2B-4F15-8D5C-961428DCA654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE6E8CA-5E2B-4F15-8D5C-961428DCA654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE6E8CA-5E2B-4F15-8D5C-961428DCA654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE6E8CA-5E2B-4F15-8D5C-961428DCA654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE6E8CA-5E2B-4F15-8D5C-961428DCA654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A34711-2CC1-4830-8093-BA947D8C9CF1}
+	EndGlobalSection
+EndGlobal

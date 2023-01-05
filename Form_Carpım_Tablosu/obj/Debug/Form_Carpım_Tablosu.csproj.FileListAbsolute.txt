@@ -1,0 +1,11 @@
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\bin\Debug\Form_Carpım_Tablosu.exe.config
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\bin\Debug\Form_Carpım_Tablosu.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\bin\Debug\Form_Carpım_Tablosu.pdb
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.Properties.Resources.resources
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.pdb
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\Form_Carpım_Tablosu\obj\Debug\Form_Carpım_Tablosu.Çarpım_Tabl.resources
