@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>  
+    <button style="margin-top: 5%; margin-left:5%;" class="btn btn-dark" onclick="Ortalama()">Ortalama hesaplama </button>
+<h5 class="quer" style=" margin-left:5%;"> asd</h5>
+
+<script>
+    function Ortalama(){
+        var degi=true;
+        while(degi)
+        {
+            var vize=prompt("Vize notu giriniz");
+            if(vize>=0 && vize<=100){
+                while(degi)
+        {
+            var final=prompt("Final notu giriniz");
+            if(final>=0 && final<=100)
+            {
+            degi=false;
+            }
+        }
+            }
+        }
+
+       
+
+        var durum=vize*40/100+final*60/100;
+        if(durum<=45)
+        {
+alert("Sınavdan Kaldınız Notunuz" + durum + "\nHarf notunuz : FF");
+        }
+        else if(durum>45 && durum<60)
+        {
+            // alert("Sınavdan geçtiniz Notunuz " + durum + "\nHarf notunuz : DD");
+            document.querySelector(".quer").innerHTML = "Vize : " + vize + " Final : " + final + " Durum : AA Kaldınız" 
+
+        }
+        else if(durum>=60 && durum<70)
+        {
+            alert("Sınavdan geçtiniz Notunuz " + durum + "\nHarf notunuz : CC");
+
+        }
+        else if(durum>=70 && durum<80)
+        {
+            alert("Sınavdan geçtiniz Notunuz " + durum + "\nHarf notunuz : BB");
+
+        }
+        else if(durum>=80 && durum<100)
+        {
+            alert("Sınavdan geçtiniz Notunuz " + durum + "\nHarf notunuz : AA");
+        }
+        else{
+            alert("Geçerli sayılar giriniz")
+        }
+    }
+</script>
+
+   </script>
+   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

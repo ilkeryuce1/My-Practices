@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>İNPUT KULLANIMI</title>
+   
+</head>
+ <body ><!--onload="alert('site yüklendi')" onresize="alert('Pencere boyutu değiştiğinde')">
+    <div class="row">
+        <div class="col-md-12">
+            <input type="button" onclick="alert('Butona basıldı')" value="click" name="" id="">
+            <input type="button" ondblclick="alert('Butona çift basıldı')" value="double-click" name="" id="">
+            <input type="button" onload="alert('Butona yüklendi')" value="buton yüklendi" name="" id="">
+        </div>
+    </div> -->
+
+    <!-- ÖRNEK PRATİK -->
+
+    <br>
+
+
+       <div class="row">
+        <div class="col-md-12">
+            <button type="button" class="btn btn-success" onclick="onay()">Onay Al</button>
+            <button type="button" class="btn btn-danger" onclick="kapat()">x</button>
+
+            <form method="post" onsubmit="return emailkontrol(this)">
+                <input type="text" placeholder="email" name="mail">
+                <input type="submit" value="Kayıt Ol">
+            </form>
+        </div>
+         </div>
+
+
+<!--   ####################
+ İNPUT TİPLERİ KULLANIMI
+ONLOAD = SAYFA YÜKLENDİĞİNDE 
+ONRESİZE = SAYFA BOYU DEĞİŞİNCE 
+ONCLİCK=TIKLANDIĞINDA
+ONDBLCLİCK=ÇİFT TIKLANDIĞINDA
+ONFOCUS = ODAKLANDIĞINDA--İMLEÇ İNPUT İÇİNDE OLURSA 
+ONMOUSEMOVE= MAUSE İLE ÜZERİNE GELİNCE
+ONMOUSEOUT= MAUSE ÜZERİNDEN AYRILINCA 
+ONMOUSEDOWN == FAREYE BASILI TUTULUCA 
+ONMOUSEUP==TIKLAMAİŞLEMİ BİTİNCE
+ONSELECT==SEÇİM YAPILDIĞINDA  -->
+
+    <script>
+        function onay(){
+            var onayiste=confirm("Onay vermekistermisiniz");
+            if (onayiste) {
+                alert("Onay verildi Teşekkürler");
+            }
+            else {
+                alert("Onay verilmedi");
+            }
+        }
+        function kaat(){
+            var kapatislem=confirm("Site Kapansın mı");
+            if (kapatislem) {
+                window.close();
+            }
+            else {
+                alert("Kapatma işlemi iptal");}
+
+        }
+        function emailkontrol(form){
+            var email=form.mail.value;
+            var etvarmı=email.IndexOf("@")
+            var etvarmı=email.IndexOf(".")
+            if (etvarmı<1||nokta<etvarmı+2||nokta+2>email.length) {
+                alert("Girilen mail Geçersiz");
+                return false;
+            }
+            else {
+                alert("Hoşgeldiniz Kullanıcı Adınız : " + email);
+                return true;
+            }
+        }
+
+
+    </script>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
